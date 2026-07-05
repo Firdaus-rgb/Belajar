@@ -14,6 +14,6 @@ body {
 }
 
 .ContainerGambar img {
-  weight: 160px;
-  height: 175px;
+  weight: 60vh;
+  height: auto;
 }
